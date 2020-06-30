@@ -3,8 +3,7 @@
 - company: DataMola, Minsk 
   position: Frontend developer
   duration: March, 2020 &mdash; June, 2020
-  summary: web application development on Angular 8, 9; implementing charts using data visualization libraries: Highcharts, Amcharts, D3.js; 
-  implementing basic components using Material UI; working with NgRx and RxJs libraries; code refactoring, code review; fixing bugs 
+  summary: web application development on Angular 8, 9; implementing charts using data visualization libraries: Highcharts, Amcharts, D3.js; implementing basic components using Material UI; working with NgRx and RxJs libraries; code refactoring, code review; fixing bugs 
 
 
 
