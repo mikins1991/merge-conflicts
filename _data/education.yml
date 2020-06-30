@@ -1,37 +1,21 @@
 Aleksandr Lemeshevskij, Frontend Developer
-
-Key skills: Angular 2+, JavaScript, TypeScript, HTML5, CSS3, SASS, Git, Highcharts, Amcharts, RxJs, NgRx, Gulp, Webpack, REST API, Material UI;
-
-Education
-
-  • Frontend Developer,
-  IT Academy, Nov, 2019 - March, 2020
+# Degree
+- degree: Frontend Developer
+  uni: IT Academy
+  year: Nov, 2019 &mdash; March, 2020
   
-  • HTML, CSS courses
-  HTML Academy, 2019
-  
-  • Frontend Javascript
-  hexlet.io, 2019
-  
-  • Bachelor, Economist-manager
-  Belarusian State Economic University 
-  2012-2016
-  
-  • Bachelor of Engineering - Engineer
-  BSATU
-  2009-2014
+- degree: HTML, CSS courses
+  uni: HTML Academy
+  year: 2019
 
+- degree: Frontend Javascript
+  uni: hexlet.io
+  year: 2019
 
-Experience
+- degree: Bachelor, Economist-manager
+  uni: Belarusian State Economic University 
+  year: 2012 &mdash; 2014
 
-DataMola, Minsk 2020
-  • web application development on Angular 8, 9  
-  • implementing charts using data visualization libraries: Highcharts, Amcharts, D3.js  
-  • implementing basic components using Material UI  
-  • working with NgRx and RxJs libraries  
-  • code refactoring, code review  
-  • fixing bugs 
-  
-Gosenergogasnadzor, Minsk  2016-2020
-  • ensuring reliable and uninterrupted power supply to consumers  
-  • reading electrical circuits and design documentation
+- degree: Bachelor of Engineering - Engineer
+  uni: BSATU
+  year: 2009 &mdash; 2014
